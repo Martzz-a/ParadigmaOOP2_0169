@@ -14,3 +14,7 @@ public:
         return saklarNo[1];
     }
 };
+
+int main() {
+    remoteLampu lampuRumah;
+}
